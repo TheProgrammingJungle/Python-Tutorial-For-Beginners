@@ -1,7 +1,7 @@
 # Python Programming Tutorial for Beginners
 # Part-2: Variables and Data Types
 
-# ---------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 
 # Initialization or Declaration of variable x
 x = 5 
@@ -23,13 +23,13 @@ print() # To add an extra line in the output.
 # y = 10
 # This will give an 'error' as y variable is accessed before its declaration.
 
-# ---------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 
 # Naming convention for variables:
-# Variable names can contain: numbers(0-9), letters(a-zA-Z), and underscores(_).
+# Variable names can contain: numbers(0-9), letters(a-zA-Z), & underscores(_).
 # Variable names cannot start with a number.
 
-# ---------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 
 # Exercise 1 :-
 # Select variable names which are valid.
@@ -55,7 +55,7 @@ print(_)
 print(aB8)
 print() # To add an extra line in the output.
 
-# ---------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 
 # Four basic datatypes :-
 # 1) integers: -1, 0, 1000 (int)
@@ -77,14 +77,15 @@ print(type(z))
 print(type(w))
 print() # To add an extra line in the output.
 
-# ---------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 
 # Exercise 2 :-
 # What is the datatype for these variables.
 
 a = True
 b = 0
-# When nothing is written after decimal point, it is assumed to be 0, hence c = 2.0 here.
+# When nothing is written after decimal point, it is assumed to be 0, hence
+# c = 2.0 here.
 c = 2.0
 d = "Hello"
 e = 'False'
