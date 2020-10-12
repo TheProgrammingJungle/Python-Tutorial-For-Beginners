@@ -1,6 +1,8 @@
 # Python Programming Tutorial for Beginners
 # Part-3: Input functions and Type conversions
 
+# -----------------------------------------------------------------------------
+
 # We can use input function to take input from a user.
 # The user input gets stored in this variable x.
 x = input("Enter your favourite color: ")

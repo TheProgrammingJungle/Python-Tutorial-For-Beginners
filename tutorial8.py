@@ -1,6 +1,8 @@
 # Python Programming Tutorial for Beginners
 # Part-8: If-Elif-Else conditionals
 
+# -----------------------------------------------------------------------------
+
 # Example that demonstrates use of if, elif, else statements.
 # This also demonstrates nested conditionals.
 level = int(input("How much drink remaining: "))

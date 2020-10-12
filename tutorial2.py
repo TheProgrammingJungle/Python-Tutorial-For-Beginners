@@ -18,7 +18,6 @@ print() # To add an extra line in the output.
 # 10
 # This shows that python code is interpreted line-by-line sequentially.
 
-
 # print(y)
 # y = 10
 # This will give an 'error' as y variable is accessed before its declaration.

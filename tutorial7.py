@@ -1,6 +1,8 @@
 # Python Programming Tutorial for Beginners
 # Part-7: Comparison and Logical operators
 
+# -----------------------------------------------------------------------------
+
 # Comparison Operators:
 # Greater Than (>), Greater Than or Equal to (>=)
 # Less Than (<), Less Than or Equal to (<=)

@@ -1,6 +1,8 @@
 # Python Programming Tutorial for Beginners
 # Part-9: While loop, break and continue
 
+# -----------------------------------------------------------------------------
+
 # Syntax of while loop:
 # while condition:
 #	do something

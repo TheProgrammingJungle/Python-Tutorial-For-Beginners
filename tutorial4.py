@@ -1,6 +1,8 @@
 # Python Programming Tutorial for Beginners
 # Part-4: Strings and String Formatting
 
+# -----------------------------------------------------------------------------
+
 # String is a datatype to store textual data. They can be enclosed within
 # either single quotes('TEXT_HERE') or double quotes("TEXT_HERE").
 s = "text"
